@@ -1,6 +1,10 @@
 ### Hi I'm Michael 👋
 
-I am an aspiring software engineer eager to leverage my technical skills and passion for innovation to contribute to cutting-edge projects. 
+I am an aspiring software engineer eager to leverage my technical skills and passion for innovation to contribute to cutting-edge projects. I am equipped with a strong foundation in software development principles, algorithms, and data structures, and proficient in a variety of programming languages including TypeScript, Python, and C++.
+
+I have proven ability to work on diverse projects through academic coursework, and personal projects, demonstrating proficiency in web development, cross-platform mobile applications, and database management. I am experienced in leveraging modern development tools and frameworks such as React, Node.js, PostgreSQL, Docker, Git, Jira, among others, to build and deploy functional and scalable applications.
+
+I am committed to continuous learning and professional growth, with a passion for tackling technical challenges and contributing to innovative projects. I am a collaborative team player with excellent problem-solving skills and a proactive approach to learning new technologies and methodologies. I am ready to bring a strong work ethic, adaptability, and a fresh perspective to a dynamic software engineering role.
 
 For more information or to get in touch with me, please visit me <a href='https://michaeldang.dev'>here.</a>
 
